@@ -1,6 +1,6 @@
-module github.com/renanribeir0/go_test_tutorial/go_test_starter
+module github.com/renanribeir0/TDD1/go_test_starter
 
-go 1.22.6
+go 1.18
 
 require github.com/stretchr/testify v1.9.0
 

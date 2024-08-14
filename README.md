@@ -13,10 +13,6 @@
 --- PASS: TestOddOrEven/Check_Negative_Numbers (0.00s)
 --- PASS: TestOddOrEven (0.00s)
 
-![alt text](image.png)
-
-Aqui está o `README.md` completo para o seu projeto:
-
 ```markdown
 # go_test_starter
 
